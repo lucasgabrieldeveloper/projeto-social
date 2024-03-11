@@ -49,7 +49,6 @@ section#redes-sociais{
     position: absolute;
     right: 2vh;
     top: 130px;
-
 }
 
 section#redes-sociais img{
@@ -66,4 +65,4 @@ section#redes-sociais img:hover{
     transform: translate(-3px, -3px);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.604);
     transition: transform .2s, border .7s;
-}
+} 
